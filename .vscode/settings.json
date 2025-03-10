@@ -16,5 +16,9 @@
             "command": "extension.execute",
             "priority": 4
         }
-    ]
+    ],
+    "cmake.sourceDirectory": "C:/Users/jie.li_sx/Desktop/git/OV-Watch/lv_sim_vscode_win",
+    "files.associations": {
+        "ymodem.h": "c"
+    }
 }
